@@ -3,7 +3,7 @@
 
 <!-- BUTTONS -->
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Adriichu&label=Profile%20views&style=for-the-badge" alt="DaddySuff" />
+    <img src="https://komarev.com/ghpvc/?username=DaddySuff&label=Profile%20views&style=for-the-badge" alt="DaddySuff" />
 </p>
 
 <!-- BANNER -->
