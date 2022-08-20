@@ -1,5 +1,3 @@
-<!-- TITLE -->
-<h1 align="center">Hey there, I am <a href="namemc.com/DaddySuff.1" target="_blank">Suff</a>.</h1>
 
 <!-- BUTTONS -->
 <p align="center">
